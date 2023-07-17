@@ -1,0 +1,6 @@
+.contact {
+	display: flex;
+	flex-direction: column;
+	background-color: #d5a0da;
+	font-size: 32px;
+}
